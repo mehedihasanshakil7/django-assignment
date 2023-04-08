@@ -1,0 +1,20 @@
+# PyCharm files
+.idea/
+
+# Virtual environment
+venv/
+
+# Django migration files
+**/migrations/
+
+# Compiled Python files
+*.pyc
+
+# Log files
+*.log
+
+# Other user-generated files
+*.pyo
+*.DS_Store
+
+db.sqlite3
